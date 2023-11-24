@@ -1,0 +1,1 @@
+solve-field Didymos_Stack_16bits_27_09_2022T02_18_38_00075.fits -3 50.85673 -4 -33.45279 -5 0.5 --scale-units app --scale-low 0.6 --scale-high 0.7 --new-fits "Didymos_Stack_16bits_27_09_2022T02_18_38_00075_wcs.fits" --objs 40 --dir="Junk" --skip-solved --fits-image --no-plots
